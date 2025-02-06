@@ -48,5 +48,3 @@ bash
 
 Copy
 python filename.py
-License
-This repository is open-source and available under the MIT License.
